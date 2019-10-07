@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Collections;
-
+// a comment for no reason
 /**
  * This sample is a BankAccount class that implements Comparable (with generics) and
  * Measurable and calls Collections.sort and Measurable.average on list of accounts.
